@@ -1,0 +1,10 @@
+#tuples
+tup=( 2 , 3 , 1 )
+print(type(tup))
+tup1=()
+print(type(tup))
+print(tup1)
+tup2=(1,2,3,4,)
+print(tup2[3:4])
+print(tup2.index(2))
+print(tup2.count(2))
