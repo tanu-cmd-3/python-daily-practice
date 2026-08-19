@@ -1,0 +1,9 @@
+#way1
+set={9,'9.0'}
+print(set)
+#way2
+values={
+    ("float",9.0),
+    ("int",9)
+}
+print(values)
